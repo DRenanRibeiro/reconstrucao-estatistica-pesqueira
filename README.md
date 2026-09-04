@@ -11,6 +11,12 @@ Reconstruir dados históricos da estatistica de desembarque pesqueiro marinho qu
 apresentam lacunas temporais, utilizando métodos estatísticos
 e técnicas de Machine Learning.
 
+O Brasil teve por muitos anos uma estatística pesqueira nacional consolidada, mas essas estatísticas sofreram descontinuidade. Há quase duas décadas não existe uma consolidação nacional confiável de dados de desembarque pesqueiro. Isso gerou problemas para tomada de decisão, avaliação de estoques, formulação de políticas públicas e para monitoramento da pesca industrial e artesanal.
+
+Há regiões do país onde os dados são escassos ou ausentes. Assim, os dados fragmentados de múltiplas fontes (órgãos federais, estaduais, municipais, instituições de pesquisa, comunidades de pescadores), com formatos, robustez e periodicidade bastante variáveis.
+
+A retomada da estatística pesqueira do Brasil é uma iniciativa recente, de bastante relevância, pois busca preencher lacunas antigas de dados sobre pesca e aquicultura, melhorar a gestão dos recursos pesqueiros e apoiar políticas públicas mais embasadas.
+
 ## Tecnologias
 
 - Python
