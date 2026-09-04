@@ -40,6 +40,7 @@ A retomada da estatística pesqueira do Brasil é uma iniciativa recente, de bas
 5. Aplicação de modelos de Machine Learning
 6. Comparação dos resultados
 
+
 ## Resultados
 
 https://www.gov.br/mpa/pt-br/assuntos/cadastro-registro-e-monitoramento/estatistica-pesqueira/painel-unificado-da-estatistica-pesqueira-e-aquicola
