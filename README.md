@@ -17,6 +17,10 @@ Há regiões do país onde os dados são escassos ou ausentes. Assim, os dados f
 
 A retomada da estatística pesqueira do Brasil é uma iniciativa recente, de bastante relevância, pois busca preencher lacunas antigas de dados sobre pesca e aquicultura, melhorar a gestão dos recursos pesqueiros e apoiar políticas públicas mais embasadas.
 
+
+## Pipe Line
+![
+](pipelinefinal.png)
 ## Tecnologias
 
 - Python
